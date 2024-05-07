@@ -5,7 +5,7 @@ This repository is for showing how Git and GitHub work
 ## Deployment
 
 lsdflnsmdf,msd,m
-some more text for rebasing example
+some more text for rebasing example, more changes from myfeature branch too
 
 ## Purpose
 
