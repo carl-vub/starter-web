@@ -26,4 +26,4 @@ sjbfsbcljs
 lskdlsndlnfsd
 
 ### Copyright
-this is the copyright
+this is the copyright, all rights reserved
